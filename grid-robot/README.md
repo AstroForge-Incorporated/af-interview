@@ -23,10 +23,3 @@ Primary:
 Secondary (don't go too crazy with these things, but broadly keep them in the back of your head):
 - Efficiency (how efficient is the code itself?)
 - Testing (how well tested is the algorithm? The code implementing the algorithm?)
-
-## Submission
-When you're done, push the code to Github (if you haven't already), and add
-rbenefoz@gmail.com as a collaborator.
-
-## Questions
-For any questions, reach out to Roshan at roshan@astroforge.io.
