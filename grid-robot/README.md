@@ -2,7 +2,7 @@
 In this challenge, you'll be implementing an algorithm to move a robot from a start location
 to a goal location on a 2D grid with obstacles. Your robot has a rotating LiDAR sensor and perfect knowledge of its current position, but nothing else (i.e., it does not have a map of the environment).
 
-We've provided a simple sim framework in C++ if helpful, but feel free to use whatever language you'd like.
+We've provided a simple sim framework in C++ (in `src`) if helpful, but feel free to use whatever language you'd like.
 
 ## Getting started with the C++ sim
 If you do decide to use the C++ boilerplate, implement your algorithm as a set of C++ classes inheriting from the `ModuleBase`, found in `modules.h`. 
