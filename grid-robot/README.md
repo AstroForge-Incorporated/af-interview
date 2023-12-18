@@ -1,4 +1,4 @@
-# The challenge
+# The Challenge
 In this challenge, you'll be implementing an algorithm to move a robot from a start location
 to a goal location on a 2D grid with obstacles. Your robot has a rotating LiDAR sensor and perfect knowledge of its current position, but nothing else (i.e., it does not have a map of the environment).
 
