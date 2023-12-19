@@ -24,8 +24,7 @@ public:
 	 */
 	Robot(Map _map, int init_x, int init_y) : map(_map) {
 		if (!this->map.inBounds(init_x, init_y) || this->map(init_x, init_y) == 1) {
-			throw std::runtime_error("Robot initialized in map location either out "
-															 "of bounds or in occupied square.");
+			throw std::runtime_error("Robot initialized in map location either out of bounds or in occupied square.");
 		}
 		this->control_sub = Topic<ControlMsg>::getInstance().subscribeTo();
 		this->true_x = init_x;
